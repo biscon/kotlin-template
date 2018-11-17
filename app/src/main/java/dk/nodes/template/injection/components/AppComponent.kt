@@ -15,7 +15,6 @@ import dk.nodes.template.network.rest.Api
     ExecutorModule::class,
     InteractorModule::class,
     RestModule::class,
-    RestRepositoryModule::class,
     StorageModule::class
 ])
 @AppScope
